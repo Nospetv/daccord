@@ -1,0 +1,41 @@
+{
+  "subscriptions": [
+    {
+      "id": "6m5k67",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "941757966204436550"
+    },
+    {
+      "id": "990uk6",
+      "url": "https://www.vinted.fr/vetements?search_text=carhartt&currency=EUR&search_id=4570505345&order=newest_first&price_to=30",
+      "channelID": "941658218227191848"
+    },
+    {
+      "id": "3sh25",
+      "url": "https://www.vinted.fr/vetements?search_text=nike&currency=EUR&search_id=4570647857&order=newest_first&price_to=30",
+      "channelID": "941666965632716800"
+    },
+    {
+      "id": "7re7t",
+      "url": "https://www.vinted.fr/vetements?search_text=nike&currency=EUR&search_id=4570647857&order=newest_first&price_to=30&catalog[]=2050&catalog[]=1904",
+      "channelID": "941661590934134814"
+    },
+    {
+      "id": "i08ayyh",
+      "url": "https://www.vinted.fr/vetements?search_text=Ralph%20Lauren&currency=EUR&search_id=4573529798&order=newest_first&price_to=30&catalog[]=2050&catalog[]=1904&time=1644647826",
+      "channelID": "941747821923692645"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1644642081000,
+  "last_item_ts_lpt5mv": 1644647170000,
+  "last_item_ts_yjxc6": 1644642898000,
+  "last_item_ts_khyspi": 1644603230000,
+  "last_item_ts_lyghh1": 1644647170000,
+  "last_item_ts_6bqywg": 1644647135000,
+  "is_first_sync": false,
+  "last_item_ts_6m5k67": 1644642081000,
+  "last_item_ts_990uk6": 1644647823000,
+  "last_item_ts_3sh25": 1644648353000,
+  "last_item_ts_7re7t": 1644648353000,
+  "last_item_ts_i08ayyh": 1644646934000
+}
